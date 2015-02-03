@@ -1,0 +1,16 @@
+[
+{
+  "modid": "usefulthings",
+  "name": "Useful Things",
+  "description": "A bunch of random useful things",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["aucguy"],
+  "credits": "aucguy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
